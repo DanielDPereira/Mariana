@@ -28,7 +28,6 @@ i {
     max-width: 116rem!important;
     margin: auto;
     padding: 0 1.5rem;
-    overflow: auto;
     resize: horizontal;
 }
 
