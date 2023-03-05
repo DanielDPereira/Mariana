@@ -98,3 +98,10 @@ details,
 summary{
   padding: 5px;
 }
+
+pre,
+code{
+  color:bisque!important;
+  font-family: monospace!important;
+
+}
