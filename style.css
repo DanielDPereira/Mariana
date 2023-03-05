@@ -21,8 +21,7 @@ body{
 }
 
 .foto{
-  border-radius: 10px!important;
-  border:5px solid rgb(255, 255, 255)!important;
+  border-top:5px solid rgb(255, 255, 255)!important;
   max-width: 200px!important;
 }
 
