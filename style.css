@@ -29,10 +29,14 @@ body{
 
 .foto1{
   border-left:5px solid rgb(255, 255, 255)!important;
+  border-top-left-radius: 20px!important;
+  border-bottom-left-radius: 20px!important;
 }
 
 .foto2{
   border-right:5px solid rgb(255, 255, 255)!important;
+  border-top-right-radius: 20px!important;
+  border-bottom-right-radius: 20px!important;
 }
 
 h1{
