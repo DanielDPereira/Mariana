@@ -33,28 +33,28 @@ body{
 }
 
 .collapse.navbar-collapse.justify-content-end{
-    background-color: black!important;
-    color: black!important;
-    background: black!important;
+    background-color: #5A5E61!important;
+    color: #5A5E61!important;
+    background: #5A5E61!important;
 }
 
 .navbar.navbar-expand-sm.bg-dark.navbar-dark{
-    color: black!important;
-    background-color: black!important;
-    background: black!important;
+    color: #5A5E61!important;
+    background-color: #5A5E61!important;
+    background: #5A5E61!important;
 }
 
 .nav.navbar.navbar-expand-sm.bg-dark.navbar-dark{
-    background: black!important;
+    background: #5A5E61!important;
 }
 
 .bg-dark {
-    background-color: black!important;
+    background-color: #5A5E61!important;
 }
 
 .nav{
-    background: black!important;
-    background-color: black!important;
+    background: #5A5E61!important;
+    background-color: #5A5E61!important;
 }
 
 .nav-item{
