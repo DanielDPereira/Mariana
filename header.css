@@ -67,5 +67,5 @@ a.nav-link{
 }
 
 nav{
-    filter: drop-shadow(0 0 0.4em rgba(0, 173, 254));
+    filter: drop-shadow(0 0 0.4em #ff0000);
 }
