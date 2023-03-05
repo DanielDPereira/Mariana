@@ -112,3 +112,8 @@ code{
   max-width: 100%!important;
   font-size: 12px;
 }
+
+.fotos1{
+  display: flex;
+  
+}
