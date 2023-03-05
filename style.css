@@ -26,7 +26,8 @@ body{
 .foto2{
   border-top:5px solid rgb(255, 255, 255)!important;
   border-bottom:5px solid rgb(255, 255, 255)!important;
-  max-width: 38%!important;
+  max-width: 40%!important;
+  width: 250px;
 }
 
 .foto1{
