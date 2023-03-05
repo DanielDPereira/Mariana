@@ -53,6 +53,7 @@ h1{
   box-sizing: border-box!important;
   margin-left: 5%;
   margin-right: 5%;
+  font-size: 22px;
 }
 
 *::selection{
@@ -62,7 +63,7 @@ h1{
 }
 
 summary{
-  font-size: 2.5rem!important;;
+  font-size: 3rem!important;;
 }
 
 .texto1 a {
