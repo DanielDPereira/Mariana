@@ -105,3 +105,9 @@ code{
   font-family: monospace!important;
 
 }
+
+.MARIANINHA{
+  left: 50%;
+  margin: 0;
+  max-width: 100%!important;
+}
