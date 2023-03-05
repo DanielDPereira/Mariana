@@ -90,7 +90,7 @@ summary{
 
 pre,
 code{
-  color:bisque!important;
+  color:rgb(255, 255, 255)!important;
   font-family: monospace!important;
   max-width: 100vw;
 
