@@ -72,6 +72,9 @@ summary{
   color: rgb(255 255 255)!important;
   text-decoration: none;
   background-color: transparent;
+  text-align: justify;
+  border: solid;
+
 }
 
 a:hover {
