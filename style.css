@@ -20,9 +20,19 @@ body{
   overflow-x: hidden!important;
 }
 
-.foto{
+.foto1,
+.foto2{
   border-top:5px solid rgb(255, 255, 255)!important;
+  border-bottom:5px solid rgb(255, 255, 255)!important;
   max-width: 200px!important;
+}
+
+.foto1{
+  border-left:5px solid rgb(255, 255, 255)!important;
+}
+
+.foto2{
+  border-right:5px solid rgb(255, 255, 255)!important;
 }
 
 h1{
