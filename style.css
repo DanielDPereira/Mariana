@@ -16,7 +16,7 @@ body{
   display: flex!important;
   flex-direction: column!important;
   margin: 0!important;
-  background-color: #CF8C95!important;
+  background-color: #ff6179b4!important;
   overflow-x: hidden!important;
 }
 
@@ -42,7 +42,7 @@ body{
 h1{
   color: white!important;
   font-size: 34px!important;
-  filter: drop-shadow(0 0 0.4em rgba(0, 173, 254));
+  filter: drop-shadow(0 0 0.4em #ff0000);
   padding-top: 24px;
   padding-bottom: 1.2%;
 }
@@ -64,37 +64,6 @@ h1{
 summary{
   font-size: 2.5rem!important;;
 }
-
-/* Estilização dos botões sociais na página de contato - Início */
-
-.redes-sociais{
-  margin-top: 1.6em;
-}
-
-.redes-sociais a{
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 40px;
-  width: 40px;
-  margin: 0 10px 10px 0;
-  text-decoration: none;
-  border-radius: 50%;
-  color: white;
-  border: 1px solid white;
-  transition: all 0.5s ease;
-}
-
-.redes-sociais a i{
-  font-size: 20px;
-}
-
-.redes-sociais a:hover{
-  color: #050f2c!important;
-  background-color: rgb(255, 255, 255);
-}
-
-/* Estilização dos botões sociais na página de contato - Fim */
 
 .texto1 a {
   color: rgb(255 255 255)!important;
